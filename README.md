@@ -14,7 +14,7 @@
 > -  [Hardware challenges](#hardware-challenges)
 > -  [Arduino and Debounce](#Arduino-and-Debounce)
 > -  [Wireless challenges](#Wireless-challenges)
-> -  [Firmware challenges](#Firmware-challenges)
+> * [Firmware challenges](#Firmware-challenges)
 
 
 ***
