@@ -1,15 +1,16 @@
 # BIOS-TASKS
-> It contains following challenges
-> -  Hardware challenges
-> -  Wireless challenges
-> -  Firmware challenges
-> -  Bandit
-> -  Debounce
+> It contains following challenges :
+> -  [Bandit](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#bandit)
+> -  [Hardware challenges](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#hardware-challenges)
+> -  [Arduino and Debounce](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#Arduino-and-Debounce)
+> -  [Wireless challenges](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#Wireless-challenges)
+> -  [Firmware challenges](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#Firmware-challenges)
+
 
 ***
 
 ## BANDIT
-#### Bandit level 1-30
+#### Bandit level 1-27
 > Aim:- To find password from one level which will help you to get into next level
     
 ***
@@ -28,7 +29,7 @@
     the Challenge 1
 ***
 
-## TASK 1 (Debounce)
+## ARDUINO AND DEBOUNCE
 #### TRAFFIC LIGHT Part 1
 > Aim:-
    Create a traffic light signal using 3 LED's (any colour of your choice) such that each of them turns on after every 1 sec respectively.
@@ -54,7 +55,8 @@ Make a writeup explaining the concept of an IQ signal.
 
 ***
 
-## X86 Intel 32-Bit assemlby
+## FIRMWARE CHALLENGES
+#### X86 Intel 32-Bit assemlby
 > It contains some basic assembly code(.asm files) and its executable
 > - add
 > - divison
