@@ -2,11 +2,13 @@
 > Hardware challenges, Wireless challenges, Firmware challenges, Bandit, Debounce
 
 ***
+
 ## BANDIT
 #### Bandit level 1-30
  Aim:- To find password from one level which will help you to get into next level
     
 ***
+
 ## HARDWARE CHALLENGES
 
 #### Challenge 1
@@ -20,6 +22,7 @@ Aim:- While testing our hardware challenge we tapped the communication happening
     Hint: Tinkercad loves LSB first. Flag format {FLAG= . . . . } TinkerCad circuit - Given in
     the Challenge 1
 ***
+
 ## TASK 1 (Debounce)
 #### TRAFFIC LIGHT Part 1
 Aim:-
@@ -28,7 +31,9 @@ Aim:-
 #### Debounce part 2
 Aim:-
     Design the same circuit as above but this time use a single push button to turn on and off the LEDs. For example, LED is switched off initially, when the push button is pressed red led turns on, when the same push button is pressed again yellow light turns on and red turns off and similarly when green turns on red and yellow turns off
-    
+
+***
+
 ## WIRELESS CHALLENGES
 #### Challenge 1
 Aim:- 
@@ -42,6 +47,8 @@ Make 2 GNU Radio flowgraphs implementing an AM Receiver and Transmitter and test
 Aim:-
 Make a writeup explaining the concept of an IQ signal.
 
+***
+
 ## X86 Intel 32-Bit assemlby
 It contains some basic assembly code(.asm files) and its executable
 - add
@@ -50,3 +57,4 @@ It contains some basic assembly code(.asm files) and its executable
 - hello
 - prime
 
+***
