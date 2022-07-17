@@ -1,4 +1,9 @@
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/NARIKODANHRIDUL/BIOS-TASKS?color=brightgreen&label=files%20in%20main%20branch&style=plastic)  ![GitHub repo size](https://img.shields.io/github/repo-size/NARIKODANHRIDUL/BIOS-TASKS?color=G&style=plastic) ![](https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red)
+<div>
+<a href=""><img src="https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red" align="left" height="25"></a>
+<a href="https://bi0s.in/"><img src="https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red" align="right" height="25"></a>
+</div>
+
 # BIOS-TASKS
 > It contains following challenges :
 > -  [Bandit](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#bandit)
