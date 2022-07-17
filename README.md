@@ -1,10 +1,10 @@
 # BIOS-TASKS
->> It contains following challenges
- -  Hardware challenges
- -  Wireless challenges
- -  Firmware challenges
- -  Bandit
- -  Debounce
+> It contains following challenges
+> -  Hardware challenges
+> -  Wireless challenges
+> -  Firmware challenges
+> -  Bandit
+> -  Debounce
 
 ***
 
