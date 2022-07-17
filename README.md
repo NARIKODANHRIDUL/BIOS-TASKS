@@ -1,6 +1,6 @@
 
 <bios href=""><img src="https://img.shields.io/badge/bi0s-Hardware-lightgrey?color=lightgrey&style=plastic" align="left" height="20"></bios>
-<neri href="https://bi0s.in/"><img src="https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red?color=9cf&style=plastic" align="right" height="20"></neri>
+<neri href="https://bi0s.in/"><img src="https://img.shields.io/badge/Author-NARIKODAN%20HRIDUL-red?color=9cf&style=plastic" align="right" height="20"></neri>
 
 <br>
 
