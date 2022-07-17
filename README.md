@@ -10,11 +10,11 @@
 
 # BIOS-TASKS
 > It contains following challenges :
-> -  [Bandit](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#bandit)
-> -  [Hardware challenges](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#hardware-challenges)
-> -  [Arduino and Debounce](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#Arduino-and-Debounce)
-> -  [Wireless challenges](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#Wireless-challenges)
-> -  [Firmware challenges](https://github.com/NARIKODANHRIDUL/BIOS-TASKS#Firmware-challenges)
+> -  [Bandit](#bandit)
+> -  [Hardware challenges](#hardware-challenges)
+> -  [Arduino and Debounce](#Arduino-and-Debounce)
+> -  [Wireless challenges](#Wireless-challenges)
+> -  [Firmware challenges](#Firmware-challenges)
 
 
 ***
