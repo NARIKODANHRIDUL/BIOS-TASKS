@@ -56,10 +56,10 @@ Make a writeup explaining the concept of an IQ signal.
 
 ## X86 Intel 32-Bit assemlby
 > It contains some basic assembly code(.asm files) and its executable
-- add
-- divison
-- fibo
-- hello
-- prime
+> - add
+> - divison
+> - fibo
+> - hello
+> - prime
 
 ***
