@@ -1,8 +1,12 @@
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/NARIKODANHRIDUL/BIOS-TASKS?color=brightgreen&label=files%20in%20main%20branch&style=plastic)  ![GitHub repo size](https://img.shields.io/github/repo-size/NARIKODANHRIDUL/BIOS-TASKS?color=G&style=plastic) ![](https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red)
-<div>
-<a href=""><img src="https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red" align="left" height="25"></a>
-<a href="https://bi0s.in/"><img src="https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red" align="right" height="25"></a>
-</div>
+
+<bios href=""><img src="https://img.shields.io/badge/bi0s-Hardware-lightgrey?color=lightgrey&style=plastic" align="left" height="20"></bios>
+<neri href="https://bi0s.in/"><img src="https://img.shields.io/badge/author-NARIKODAN%20HRIDUL-red?color=red&style=plastic" align="right" height="20"></neri>
+
+<br>
+
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/NARIKODANHRIDUL/BIOS-TASKS?color=brightgreen&label=files%20in%20main%20branch&style=plastic)  ![GitHub repo size](https://img.shields.io/github/repo-size/NARIKODANHRIDUL/BIOS-TASKS?color=G&style=plastic) 
+
+
 
 # BIOS-TASKS
 > It contains following challenges :
